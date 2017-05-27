@@ -15,7 +15,7 @@ Optional arguments: The following arguments are optionally invoked, as user need
 
 -V or --version used to query the module version.
 
--A or –--author used to query the author's data.
+-A or --author used to query the author's data.
 
 -d or --dnsserver used to specify a DNS server where the query must be made, by default the Google DNS server (8.8.8.8) is used.
 
